@@ -5,11 +5,11 @@ An OpenCart extension that inverts coupon allowed product and category lists int
 
 Compatible with OpenCart 2.3.x/3.x.
 
-Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
+**Note**: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
 
 ## Features
 * It just works — and works well.
-* No core file modifications.
+* Does not modify system files (OCMOD).
 
 ## License
 * [End-User License Agreement](../EULA.en.txt)
