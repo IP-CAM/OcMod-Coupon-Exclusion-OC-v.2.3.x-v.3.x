@@ -9,7 +9,7 @@ Compatible with OpenCart 2.3.x/3.x.
 
 ## Features
 * It just works — and works well.
-* Does not modify system files (OCMOD).
+* No core file modifications (OCMOD).
 
 ## License
 * [End-User License Agreement](../EULA.en.txt)
